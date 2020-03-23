@@ -1,0 +1,8 @@
+﻿NAME_SERVER="mail.ru"
+SUBJ="книги 456..."
+MSG="123 просто текст сообщения..."
+FROM="<xxxx@mail.ru>"
+FILE="../doc/345.pdf"
+MAILTO="xxxx@yandex.ru"
+SMTP_USERNAME="xxx@mail.ru"
+PASSWORD="xxxx"
